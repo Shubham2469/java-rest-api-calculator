@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 git 'https://github.com/Shubham2469/java-rest-api-calculator.git'
-                echo 'Added to GitHub'
+                echo 'Changes are been made'
                 
             }
         }
